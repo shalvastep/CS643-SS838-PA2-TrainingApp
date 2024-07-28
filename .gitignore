@@ -1,0 +1,62 @@
+# Maven build directory
+target/
+
+# Maven wrapper files
+.mvn/wrapper/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans project files
+nbproject/private/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+tmp/
+
+# JRebel files
+jrebel.xml
+
+# Build tools
+*.jar
+*.war
+*.ear
+*.class
+*.d
+*.out
+
+# Spring Boot specific files
+spring-boot-devtools.jar
+
+# IDE specific directories
+.vscode/
+.idea/
+
+# Local environment files
+*.env
+*.local
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Docker
+Dockerfile
+docker-compose.yml
